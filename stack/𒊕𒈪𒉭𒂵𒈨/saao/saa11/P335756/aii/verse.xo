@@ -1,0 +1,27 @@
+
+block |List of Arrivals from the Provinces|
+  block |:blank(8):blank(2)|
+  block |:blank(5)𒌷𒊮:blank(2)|
+  block |:blank(4)𒆸𒌷𒋾:blank(2)|
+  block |:blank(5)𒌷𒋢𒆳|
+  block |:blank(3)𒋫𒀀𒀀𒌷𒇹𒀭|
+  block |:blank(3)𒌅𒁀𒀀𒌷𒆕𒍪|
+  block |:blank(3)𒊓𒍝𒀭𒍣𒌷𒌋𒌋𒉡𒇻𒊺𒍦|
+  block |:blank(3)𒆷𒍝𒄭𒀉𒌅𒌷𒌋𒌆𒁹:blank(2)|
+  block |:blank(2)𒈠𒋾𒄿𒌷𒁀:blank(2)|
+  block |:blank(4)𒀸𒂍𒊕𒆸𒃮𒆳𒌷𒃻𒀭:blank(2)|
+  block |:blank(6)𒈾𒈾𒀀𒊬𒋥𒌷𒅆𒈠 :blank(3)|
+  block |:blank(8)𒊕𒆳𒌷𒈾:blank(1)𒋼𒀀|
+  block |:blank(3)𒋾𒅖𒆠𒌷𒄩𒌑𒊑𒈾|
+  block |:blank(6)𒀀𒂍𒀜:blank(3)|
+  block |:blank(6)𒀀𒂍 𒁹𒀭:blank(3)|
+  block |:blank(3)𒌋𒌋𒉽𒌷𒇻:blank(3)|
+  block |:blank(3)𒋫𒀜𒊑𒅗 𒅆𒄿:blank(3)|
+  block |:blank(6)𒊏𒆳𒌷𒅈:blank(3)|
+  block |:blank(6)𒈾𒀀𒌷:blank(4)|
+  block |:blank(5)𒅕𒌅𒌷:blank(4)|
+  block |:blank(5)𒇷𒅀𒀀𒌷:blank(4)|
+  block |:blank(6)𒁀𒀀𒌷𒋛:blank(3)|
+  block |:blank(3)𒆪𒁺𒊑 𒆷 𒊑𒇷𒅗|
+  block |:blank(3)𒆷 𒌑𒁕:cloud(|o|)|
+  block |:blank(5)𒈨𒌍 𒋗:blank(2)|
