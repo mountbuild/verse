@@ -34,7 +34,7 @@ Contributions are greatly welcomed. Identify the key painpoints in the customer 
 
 ### License
 
-Copyright 2019 <a href='https://mount.build'>Mount</a>
+Copyright 2021 <a href='https://mount.build'>Mount</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
